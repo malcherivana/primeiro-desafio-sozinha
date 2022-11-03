@@ -1,0 +1,13 @@
+coisas importantes no curso que eu arrumei para minha cabeça 
+
+1 criar repositorio no github
+2 clonar o repositorio no git (git clone https://github.com/malcherivana/primeiro-desafio-sozinha.git)
+3 entra dentro do repositorio (cd primeiro-desafio-sozinha)
+4 ver status do repositorio (git status)
+criar algo antes pelo pc dentro do repositorio
+5 criar algo no repositorio no proprio pc e depois atualizar pelo git
+6 ver status em vermelho (git status)
+7 adicionar local (git add . )
+8 (git commit -m "inclusao das anotaçoes do curso git\github")
+foi incluido no local 
+9 para completar e aparcer a pasta no github (git push origin main)
