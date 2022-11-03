@@ -8,6 +8,9 @@ criar algo antes pelo pc dentro do repositorio
 5 criar algo no repositorio no proprio pc e depois atualizar pelo git
 6 ver status em vermelho (git status)
 7 adicionar local (git add . )
+(status verde )
 8 (git commit -m "inclusao das anotaçoes do curso git\github")
 foi incluido no local 
 9 para completar e aparcer a pasta no github (git push origin main)
+
+obs ficar vendo sempre git status para poder ser guiada 
